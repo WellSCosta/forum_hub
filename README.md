@@ -1,6 +1,8 @@
-# FórumHub API REST
+# Alura Challenge | Oracle One | Forum Hub
 
-## Descrição do Projeto
+
+Sobre o Projeto
+---
 
 Bem-vindo ao FórumHub, um projeto desenvolvido como parte do Challenge Back End da Alura. O objetivo deste projeto é implementar uma API REST que replica a funcionalidade de um fórum, permitindo a criação, consulta, atualização e exclusão de tópicos.
 
@@ -37,3 +39,11 @@ O projeto está estruturado da seguinte forma:
 ### Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+Contato
+---
+Para dúvidas ou sugestões, entre em contato através do e-mail: wellscostaofc@gmail.com.
+
+LinkedIn
+---
+https://www.linkedin.com/in/wellington-santos-backend-java/
