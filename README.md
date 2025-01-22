@@ -1,5 +1,8 @@
 # Alura Challenge | Oracle One | Forum Hub
 
+<p align="center" >
+     <img width="400" heigth="400" src="https://github.com/user-attachments/assets/1f9d8220-467c-4928-b415-9c76db620ec3">
+</p>
 
 Sobre o Projeto
 ---
